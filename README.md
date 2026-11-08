@@ -54,8 +54,8 @@ My [portfolio](https://gitguy268.github.io) has a website, terminal and Windows 
 | Project | What it does |
 |---|---|
 | [xiao](https://github.com/Gitguy268/xiao) | Calm, private browser built on Zen: blocking, randomized fingerprint, Tor tabs |
-| [hillium](https://github.com/Gitguy268/hillium) | Arc/Zen-style Electron browser with sidebar tabs, spaces, a CLI and an MCP server |
-| [archium](https://github.com/Gitguy268/archium) | Privacy layer for Helium: offline new tab, local SearXNG, Tor with a kill switch, URL cleaner |
+| [archium](https://github.com/Gitguy268/archium) | Arc/Zen-style Electron browser with sidebar tabs, spaces, a CLI and an MCP server |
+| [hillium](https://github.com/Gitguy268/hillium) | Privacy layer for Helium: offline new tab, local SearXNG, Tor with a kill switch, URL cleaner |
 | [retrofind](https://github.com/Gitguy268/retrofind) | Private web search on your Mac, styled like 1998, over a local SearXNG |
  
 ## 🎨 Apps that run in your browser
